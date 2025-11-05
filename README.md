@@ -158,25 +158,12 @@ All commands can be executed directly inside your GitHub Codespace using this re
 
 ---
 
-## **Part 3: HBOM Exploration**
-
-Use the device documentation to identify **three (3)** key hardware components (e.g., microcontroller, IMU, LCD).
-
-For each component, provide:
-- **Manufacturer** (e.g., Espressif, Epson)  
-- **Part number or chip family** (e.g., ESP32-S3, MPU6886)  
-- **Known vulnerabilities or risks** (from NVD or functional reasoning)  
-- **Summary** of how hardware dependencies influence software risk.
-
----
-
-## **Part 4: Deliverables**
+## **Part 3: Deliverables**
 
 Submit a **2–3 page report** including:
 
 - SBOM generation results  
-- Vulnerability analysis (top 5 CVEs or rationale for zero matches)  
-- HBOM component summary  
+- Vulnerability analysis (top 5 CVEs or rationale for zero matches)
 - Reflection on insights and process  
 
 ### **Upload to `/deliverables/` and push to GitHub:**
@@ -199,5 +186,4 @@ deliverables/
 |----------------|-----------------------------|--------------------|------------|
 | **SBOM Generation** | Both SBOMs generated (Syft SPDX + Trivy CycloneDX); includes discussion of differences and screenshots. | One SBOM missing, misnamed, or lacking discussion. | 8 |
 | **Vulnerability Analysis** | Grype scan performed; top 5 CVEs or rationale for 0 findings; NVD context explained. | Scan missing or minimal discussion. | 7 |
-| **HBOM Exploration** | Three components documented with vendor, part #, and vulnerability context. | Fewer than three components or minimal discussion. | 6 |
-| **Reflection & Professionalism** | Clear, concise reflection; correct filenames; properly pushed to GitHub. | Minor clarity or submission issues. | 4 |
+| **Reflection & Professionalism** | Clear, concise reflection; correct filenames; properly pushed to GitHub. | Minor clarity or submission issues. | 10 |
