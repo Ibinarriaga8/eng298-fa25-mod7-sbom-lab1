@@ -64,7 +64,7 @@ In the Module 7 Reading Material and lecture discussions, you explored how assur
 
 ### **Report Deliverable**
 
-Throughout this lab, you will capture your commands, screenshots, and findings in a short report (2-3 pages total). This report will compile your SBOM generation results and vulnerability analysis (top 5 CVEs). The final report, along with the required output files, will be submitted in your Codespace’s deliverables/folder and pushed to GitHub.
+Throughout this lab, you will capture your commands, screenshots, and findings in a short report (2-3 pages total, PDF format). This report will compile your SBOM generation results and vulnerability analysis (top 5 CVEs). The final report, along with the required output files, will be submitted in your Codespace’s /deliverables folder and pushed to GitHub. **See Part 3: Deliverables below for more information.**
 
 ## **Part 1: SBOM Generation (in Codespaces)**
 
